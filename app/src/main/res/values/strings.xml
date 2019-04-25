@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Luas Real Time</string>
+    <string name="red_line">Red Line</string>
+    <string name="green_line">Green Line</string>
+    <string name="dalymount">Dalymount</string>
+    <string name="inbound">Inbound</string>
+    <string name="outbound">Outbound</string>
+    <string name="map_tv">Map</string>
+</resources>
